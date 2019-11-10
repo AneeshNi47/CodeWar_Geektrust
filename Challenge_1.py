@@ -8,8 +8,6 @@ class Kingdom:
 
 space = Kingdom('Space', 'Gorilla', None)
 
-usage_count = 0
-
 
 def message_process(kingdom, message):  # function tp process message to kingdom and check for the condition
     flag = 0
