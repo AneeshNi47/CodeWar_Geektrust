@@ -7,7 +7,7 @@ class Kingdom:
 
 
 space = Kingdom('Space', 'Gorilla', None)
-
+## test new commint
 
 def message_process(kingdom, message):  # function tp process message to kingdom and check for the condition
     flag = 0
